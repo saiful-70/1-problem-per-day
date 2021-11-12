@@ -12,3 +12,4 @@
 - [4. Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/)
 - [5. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/)
 - [6. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
+- [7. Remove Element](https://leetcode.com/problems/remove-element/)
