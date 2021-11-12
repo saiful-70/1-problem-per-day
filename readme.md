@@ -1,6 +1,6 @@
-# Target to solve one problem per day in a row.
+# Target to solve one problem per day
 
-<h3 style="align: center"><a href="https://leetcode.com/saiful70/"> Leetcode Profile </a></h3>
+<h2 style="text-align: center; font-weight: bold;"><a href="https://leetcode.com/saiful70/"> Leetcode Profile &raquo; </a></h2>
 
 ## Problem lists:
 
