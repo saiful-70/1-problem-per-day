@@ -13,3 +13,4 @@
 - [5. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/)
 - [6. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 - [7. Remove Element](https://leetcode.com/problems/remove-element/)
+- [8. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
