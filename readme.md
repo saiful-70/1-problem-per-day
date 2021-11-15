@@ -14,4 +14,5 @@
 - [6. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 - [7. Remove Element](https://leetcode.com/problems/remove-element/)
 - [8. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [9.  Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [9. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [10. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
