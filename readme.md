@@ -16,3 +16,4 @@
 - [8. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [9. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [10. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [11. Plus One](https://leetcode.com/problems/plus-one/)
