@@ -19,3 +19,4 @@
 - [11. Plus One](https://leetcode.com/problems/plus-one/)
 - [12. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - [13. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [14. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
