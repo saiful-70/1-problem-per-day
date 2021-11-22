@@ -22,3 +22,4 @@
 - [14. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [15. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [16. Add Binary](https://leetcode.com/problems/add-binary/)
+- [16. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
