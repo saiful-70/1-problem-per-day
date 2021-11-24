@@ -24,3 +24,4 @@
 - [16. Add Binary](https://leetcode.com/problems/add-binary/)
 - [17. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [18. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [19. Single Number](https://leetcode.com/problems/single-number/)
