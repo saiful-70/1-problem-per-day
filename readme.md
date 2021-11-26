@@ -26,3 +26,4 @@
 - [18. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [19. Single Number](https://leetcode.com/problems/single-number/)
 - [20. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [21. Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
