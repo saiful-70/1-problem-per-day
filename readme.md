@@ -28,3 +28,4 @@
 - [20. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [21. Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [22. Pascal Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+- [23. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
