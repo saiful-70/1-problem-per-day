@@ -30,3 +30,7 @@
 - [22. Pascal Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [23. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [24. Power of Two](https://leetcode.com/problems/power-of-two/)
+- [25. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+<br>
+**25 days and solved 25 problems in a row!😬😄
+<br>
