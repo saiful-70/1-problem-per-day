@@ -2,9 +2,7 @@
 
 <h2 align="center">
   <a href="https://leetcode.com/saiful70/"> 
-  <font color="orange">
     <b>Leetcode Profile &raquo;</b>
-  </font> 
   </a>
 </h2>
 
@@ -39,9 +37,7 @@
 - [25. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 <h4 align="center">
-  <font color="orange"> 
     <b>25 days and solved 25 problems in a row!😬😄</b>
-  </font>
 </h4>
 
 - [26. Binary Search](https://leetcode.com/problems/binary-search/)
