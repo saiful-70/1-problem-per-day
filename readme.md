@@ -1,6 +1,6 @@
 # Target to solve one problem per day
 
-<h2 style="text-align: center; font-weight: bold;"><a href="https://leetcode.com/saiful70/"> Leetcode Profile &raquo; </a></h2>
+<h2 style="text-align: center;font-weight: bold;"><a style="color: orange;"href="https://leetcode.com/saiful70/"> Leetcode Profile &raquo; </a></h2>
 
 ## Problem lists:
 
@@ -31,6 +31,10 @@
 - [23. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [24. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [25. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-**25 days and solved 25 problems in a row!😬😄**
+
+<h3 style="text-align : center; color: orange; font-weight: bold;">25 days and solved 25 problems in a row!😬😄</h3>
+
 - [26. Binary Search](https://leetcode.com/problems/binary-search/)
 - [27. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [28. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [29. Rotate Array](https://leetcode.com/problems/rotate-array/)
