@@ -1,6 +1,12 @@
-# Target to solve one problem per day
+# **Target to solve at least one problem per day**
 
-<h2 style="text-align: center;font-weight: bold;"><a style="color: orange;"href="https://leetcode.com/saiful70/"> Leetcode Profile &raquo; </a></h2>
+<h2 align="center">
+  <a href="https://leetcode.com/saiful70/"> 
+  <font color="orange">
+    <b>Leetcode Profile &raquo;</b>
+  </font> 
+  </a>
+</h2>
 
 ## Problem lists:
 
@@ -32,7 +38,11 @@
 - [24. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [25. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
-<h4 align="center">25 days and solved 25 problems in a row!😬😄</h4>
+<h4 align="center">
+  <font color="orange"> 
+    <b>25 days and solved 25 problems in a row!😬😄</b>
+  </font>
+</h4>
 
 - [26. Binary Search](https://leetcode.com/problems/binary-search/)
 - [27. First Bad Version](https://leetcode.com/problems/first-bad-version/)
