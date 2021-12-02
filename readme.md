@@ -32,7 +32,7 @@
 - [24. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [25. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
-<h3 style="text-align : center; color: orange; font-weight: bold;">25 days and solved 25 problems in a row!😬😄</h3>
+<h4 align="center">25 days and solved 25 problems in a row!😬😄</h4>
 
 - [26. Binary Search](https://leetcode.com/problems/binary-search/)
 - [27. First Bad Version](https://leetcode.com/problems/first-bad-version/)
