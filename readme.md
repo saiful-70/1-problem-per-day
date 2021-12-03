@@ -44,3 +44,5 @@
 - [27. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [28. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [29. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [30. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [31. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
