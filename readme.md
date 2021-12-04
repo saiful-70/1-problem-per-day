@@ -46,3 +46,5 @@
 - [29. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [30. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [31. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [32. Reverse String](https://leetcode.com/problems/reverse-string/)
+- [33. Reverse Words in a String III](https://leetcode.com/reverse-words-in-a-string-iii/)
