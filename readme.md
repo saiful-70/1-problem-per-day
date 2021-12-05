@@ -48,3 +48,5 @@
 - [31. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [32. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [33. Reverse Words in a String III](https://leetcode.com/reverse-words-in-a-string-iii/)
+- [34. Middle of the Linked List](https://leetcode.com/middle-of-the-linked-list/)
+- [35. Remove Nth Node From End of List](https://leetcode.com/remove-nth-node-from-end-of-list/)
