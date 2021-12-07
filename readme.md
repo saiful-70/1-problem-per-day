@@ -52,3 +52,5 @@
 - [35. Remove Nth Node From End of List](https://leetcode.com/remove-nth-node-from-end-of-list/)
 - [36. Longest Substring Without Repeating Characters](https://leetcode.com/longest-substring-without-repeating-characters/)
 - [37. Permutation in String](https://leetcode.com/permutation-in-string/)
+- [38. Flood Fill](https://leetcode.com/flood-fill/)
+- [39. Max Area of Island](https://leetcode.com/max-area-of-island/)
