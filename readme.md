@@ -54,3 +54,5 @@
 - [37. Permutation in String](https://leetcode.com/permutation-in-string/)
 - [38. Flood Fill](https://leetcode.com/flood-fill/)
 - [39. Max Area of Island](https://leetcode.com/max-area-of-island/)
+- [40. Merge Two Binary Trees](https://leetcode.com/merge-two-binary-trees/)
+- [41. Populating Next Right Pointers in Each Node](https://leetcode.com/populating-next-right-pointers-in-each-node/)
