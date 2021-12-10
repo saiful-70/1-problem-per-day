@@ -56,3 +56,6 @@
 - [39. Max Area of Island](https://leetcode.com/max-area-of-island/)
 - [40. Merge Two Binary Trees](https://leetcode.com/merge-two-binary-trees/)
 - [41. Populating Next Right Pointers in Each Node](https://leetcode.com/populating-next-right-pointers-in-each-node/)
+- [42. 01 Matrix](https://leetcode.com/01-matrix/)
+- [43. Rotting Oranges](https://leetcode.com/rotting-oranges/)
+- [44. Reverse Linked List](https://leetcode.com/reverse-linked-list/)
