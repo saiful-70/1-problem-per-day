@@ -59,3 +59,8 @@
 - [42. 01 Matrix](https://leetcode.com/01-matrix/)
 - [43. Rotting Oranges](https://leetcode.com/rotting-oranges/)
 - [44. Reverse Linked List](https://leetcode.com/reverse-linked-list/)
+- [45. Combinattions](https://leetcode.com/combinations/)
+- [46. Permutations](https://leetcode.com/permutations/)
+- [47. Letter Case Permutation](https://leetcode.com/letter-case-permutation/)
+- [48. House Robber](https://leetcode.com/house-robber/)
+- [49. Triangle](https://leetcode.com/triangle/)
