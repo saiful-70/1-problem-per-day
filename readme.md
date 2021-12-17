@@ -64,3 +64,13 @@
 - [47. Letter Case Permutation](https://leetcode.com/letter-case-permutation/)
 - [48. House Robber](https://leetcode.com/house-robber/)
 - [49. Triangle](https://leetcode.com/triangle/)
+
+<h4 align="center">
+    <p>
+      <b>Completed 14 days Algorithm-I study plan.😎 </b>
+    </p>
+    <b>But 4 days gap!😢</b>
+</h4>
+
+- [50. Contains Duplicate](https://leetcode.com/contains-duplicate/)
+- [51. Maximum Subarray](https://leetcode.com/maximum-subarray/)
