@@ -74,3 +74,4 @@
 
 - [50. Contains Duplicate](https://leetcode.com/contains-duplicate/)
 - [51. Maximum Subarray](https://leetcode.com/maximum-subarray/)
+- [52. Is Subsequence](https://leetcode.com/is-subsequence/)
