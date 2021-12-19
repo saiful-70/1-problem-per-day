@@ -75,3 +75,5 @@
 - [50. Contains Duplicate](https://leetcode.com/contains-duplicate/)
 - [51. Maximum Subarray](https://leetcode.com/maximum-subarray/)
 - [52. Is Subsequence](https://leetcode.com/is-subsequence/)
+- [53. Intersection of Two Arrays II](https://leetcode.com/intersection-of-two-arrays-ii/)
+- [54. Best Time to Buy and Sell Stock](https://leetcode.com/best-time-to-buy-and-sell-stock/)
