@@ -78,3 +78,7 @@
 - [53. Intersection of Two Arrays II](https://leetcode.com/intersection-of-two-arrays-ii/)
 - [54. Best Time to Buy and Sell Stock](https://leetcode.com/best-time-to-buy-and-sell-stock/)
 - [55. Reshape the Matrix](https://leetcode.com/reshape-the-matrix/)
+- [56. Valid Sudoku](https://leetcode.com/valid-sudoku/)
+- [57. Search a 2D Matrix](https://leetcode.com/search-a-2d-matrix/)
+- [58. First Unique Character in a String](https://leetcode.com/first-unique-character-in-a-string/)
+- [59. Ransom Note](https://leetcode.com/ransom-note/)
