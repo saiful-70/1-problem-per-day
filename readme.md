@@ -82,3 +82,5 @@
 - [57. Search a 2D Matrix](https://leetcode.com/search-a-2d-matrix/)
 - [58. First Unique Character in a String](https://leetcode.com/first-unique-character-in-a-string/)
 - [59. Ransom Note](https://leetcode.com/ransom-note/)
+- [60. Linked List Cycle](https://leetcode.com/linked-list-cycle/)
+- [61. Remove Linked List Elements](https://leetcode.com/remove-linked-list-elements/)
