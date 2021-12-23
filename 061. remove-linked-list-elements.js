@@ -6,7 +6,6 @@ const removeElements = (head, val) => {
   while (head && head.val === val) {
     head = head.next;
   }
-
   let current = head;
   if (current) {
     while (current.next) {
