@@ -84,3 +84,6 @@
 - [59. Ransom Note](https://leetcode.com/ransom-note/)
 - [60. Linked List Cycle](https://leetcode.com/linked-list-cycle/)
 - [61. Remove Linked List Elements](https://leetcode.com/remove-linked-list-elements/)
+- [62. Combination Sum](https://leetcode.com/combination-sum/)
+- [63. Combination Sum II](https://leetcode.com/combination-sum-ii/)
+- [64. Rotate Image](https://leetcode.com/problems/rotate-image/)

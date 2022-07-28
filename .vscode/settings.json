@@ -9,6 +9,10 @@
     "initializer_list": "cpp",
     "regex": "cpp",
     "utility": "cpp",
-    "valarray": "cpp"
+    "valarray": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "*.tcc": "cpp",
+    "list": "cpp"
   }
 }
