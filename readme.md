@@ -87,3 +87,9 @@
 - [62. Combination Sum](https://leetcode.com/combination-sum/)
 - [63. Combination Sum II](https://leetcode.com/combination-sum-ii/)
 - [64. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+<h4 align="center">
+    <b>Solving Problem from sde sheet which is introduced by </b>
+    <a href="https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/" target="_blank">Striver's</a>
+    <p></p><b>Folder created as named SDE Sheet (28 July, 2022)</b></p>
+</h4>
