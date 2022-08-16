@@ -13,7 +13,8 @@ public:
         long long int cnt = 0;
         for(long long int i=0;i<n;i++) {
             for(long long int j=i+1;j<n;j++) {
-                if(arr[i]>2*arr[j]) {
+                unsigned long long int comp = 2*arr[j];
+                if(arr[i]>comp) {
                     cnt++;
                 }
             }
@@ -21,5 +22,4 @@ public:
         return cnt;
     }
 };
-// @lc code=end
 
